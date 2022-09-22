@@ -152,5 +152,24 @@ Github: https://github.com/CruelDev69/Assistant-Elena
       elif "quit" in args:
         break 
       elif "help" in args:
-        print("Elena: My commands are: \nWikipedia\nOpen Repo\nDeveloper\nRobots\nOpen YouTube\nOpen Discord\nOpen Twitter\nOpen Instagram\nOpen Facebook\nOpen GitHub\nOpen Google\nTime\nHelp\nQuit")
-        say("My commands are: \nWikipedia\nOpen Repo\nDeveloper\nRobots\nOpen YouTube\nOpen Discord\nOpen Twitter\nOpen Instagram\nOpen Facebook\nOpen GitHub\nOpen Google\nTime\nHelp\nQuit")
+        print('''
+|-------------------|------------------------------------------------------------------------------------------------|
+| Command Name      | Description                                                                                    |
+|-------------------|------------------------------------------------------------------------------------------------|
+| Wikipedia         | Elena will search your given query on wikipedia and will tell you result.                      |
+| Developer         | Opens website of developer in your default browser.                                            |
+| Robots            | Opens Developer's discord bots website in your default browser.                                |
+| Open Repo         | Opens this repository in your default browser.                                                 |
+| Open YouTube      | Opens YouTube in your default browser.                                                         |
+| Open Discord      | Opens Discord in your default browser.                                                         |
+| Open Instagram    | Opens Instagram in your default browser.                                                       |
+| Open Twitter      | Opens Twitter in your default browser.                                                         |
+| Open Facebook     | Opens Facebook in your default browser.                                                        |
+| Open GitHub       | Opens GitHub in your default browser.                                                          |                                             
+| Open Google       | Opens Google in your default browser.                                                          |
+| Time              | Tells you what time is it.                                                                     |
+| Help              | Shows help menu in console.                                                                    |
+| Quit              | Quits the program.                                                                             |
+|-------------------|------------------------------------------------------------------------------------------------|
+        ''')
+        say("My commands are: \nWikipedia\nDeveloper\nRobots\nOpen Repo\nOpen YouTube\nOpen Discord\nOpen Instagram\nOpen Twitter\nOpen Facebook\nOpen GitHub\nOpen Google\nTime\nHelp\nQuit")
