@@ -25,20 +25,18 @@ Say commands and enjoy using **Elena**.
 | **Open Instagram**    | Opens Instagram in your default browser.                                                       |
 | **Open Twitter**      | Opens Twitter in your default browser.                                                         |
 | **Open Facebook**     | Opens Facebook in your default browser.                                                        |
-| **Open GitHub**       | Opens GitHub in your default browser.                                                          |                                                              |
+| **Open GitHub**       | Opens GitHub in your default browser.                                                          |                                             
 | **Open Google**       | Opens Google in your default browser.                                                          |
 | **Time**              | Tells you what time is it.                                                                     |
 | **Help**              | Shows help menu in console.                                                                    |
-| **Quit**              | Quits program.                                                                                 |
+| **Quit**              | Quits the program.                                                                             |
 
 ***
 
 
 ***
 
-<p align="center"><img width="600px" src="https://media.discordapp.net/attachments/1012682729265053737/1021881333921882122/unknown.png"/></p>
-
-<p align="center"><img width="600px" src="https://cdn.discordapp.com/attachments/1012682729265053737/1021881638512238592/unknown.png"/></p>
+<p align="center"><img width="600px" src="https://media.discordapp.net/attachments/1018202617576443974/1022459814930022410/unknown.png"/></p>
 
 ***
 # Note:
