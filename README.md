@@ -6,6 +6,8 @@ It's very simple just follow the steps written below.
 
 Type `pip install -r requirements` to install all required modules.
 
+Open `assistant.py` in a code editor and find name variable type your name in that string or a nickname Elena will call you with.
+
 Type `py assistant.py` in console to launch YouTube Video Downloader Tool.
 
 Say commands and enjoy using **Elena**.
