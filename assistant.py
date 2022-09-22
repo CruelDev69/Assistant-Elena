@@ -151,3 +151,6 @@ Github: https://github.com/CruelDev69/Assistant-Elena
         say(f"The time is {currentTime}")
       elif "quit" in args:
         break 
+      elif "help" in args:
+        print("Elena: My commands are: \nWikipedia\nOpen Repo\nDeveloper\nRobots\nOpen YouTube\nOpen Discord\nOpen Twitter\nOpen Instagram\nOpen Facebook\nOpen GitHub\nOpen Google\nTime\nHelp\nQuit")
+        say("My commands are: \nWikipedia\nOpen Repo\nDeveloper\nRobots\nOpen YouTube\nOpen Discord\nOpen Twitter\nOpen Instagram\nOpen Facebook\nOpen GitHub\nOpen Google\nTime\nHelp\nQuit")
