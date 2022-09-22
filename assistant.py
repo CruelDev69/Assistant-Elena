@@ -81,7 +81,7 @@ if __name__ == "__main__":
 ╔═╗┬  ┌─┐┌┐┌┌─┐
 ║╣ │  ├┤ │││├─┤
 ╚═╝┴─┘└─┘┘└┘┴ ┴
-'''
+''')
     print('''
 Author: Ahad#3257                           
 Website: https://itscruel.cf
